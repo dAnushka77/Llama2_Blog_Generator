@@ -34,8 +34,3 @@ This project is a Streamlit-based application that generates blogs using the Lla
 
 
 
-## Example Prompt
-
-Here’s an example of how the system generates a blog:
-
-**Prompt Template**:  
