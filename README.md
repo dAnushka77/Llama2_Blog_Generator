@@ -33,4 +33,8 @@ This project is a Streamlit-based application that generates blogs using the Lla
 4. **Generate Blog**: Click the "Generate" button, and the AI will create a blog based on the inputs.
 
 
+## Output
+
+![image](https://github.com/user-attachments/assets/9b84884b-89e6-4417-92bc-27f2166cbdd9)
+
 
